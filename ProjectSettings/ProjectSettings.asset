@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 3717c141ac9599944842dfeeead745f7
+  productGUID: a6d6c09cc450fee4fb74397fe2580238
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: game091126
+  productName: 20260918
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: game091126
+  metroPackageName: 20260918
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: game091126
+  metroApplicationDescription: 20260918
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 80694d5d-4593-4b70-a97b-758e4e35b41e
+  cloudProjectId: 8f1a3ed3-34d7-4fd1-980a-b9deab05a7fa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: game091126
+  projectName: 20260918
   organizationId: junhobag469-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
